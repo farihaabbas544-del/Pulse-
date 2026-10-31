@@ -1,0 +1,6 @@
+{
+  "name": "PulseChat - Modern Messaging & Collaboration",
+  "description": "PulseChat is a modern messaging and collaboration platform with real-time messaging, spaces, voice and video calling, 24-hour status updates, and view-once media.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
